@@ -1,4 +1,4 @@
-package com.javatechie.spring.zulu.api.filter;
+package com.sai.spring.zulu.api.filter;
 
 import javax.servlet.http.HttpServletResponse;
 

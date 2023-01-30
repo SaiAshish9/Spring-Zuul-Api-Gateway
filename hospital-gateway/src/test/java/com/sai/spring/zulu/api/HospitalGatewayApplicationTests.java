@@ -1,4 +1,4 @@
-package com.javatechie.spring.zulu.api;
+package com.sai.spring.zulu.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

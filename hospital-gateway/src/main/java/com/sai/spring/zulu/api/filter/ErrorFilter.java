@@ -1,4 +1,4 @@
-package com.javatechie.spring.zulu.api.filter;
+package com.sai.spring.zulu.api.filter;
 
 import javax.servlet.http.HttpServletResponse;
 
@@ -11,7 +11,7 @@ import com.netflix.zuul.context.RequestContext;
 
 @Component
 public class ErrorFilter extends ZuulFilter {
-	private static Logger log = LoggerFactory.getLogger(PostFilter.class);
+	private static Logger log = LoggerFactory.getLogger(ErrorFilter.class);
 
 	  @Override
 	  public String filterType() {
